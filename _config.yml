@@ -1,12 +1,15 @@
 # Site settings
-title: Jekyll shop powered by Snipcart
-email: geeks@snipcart.com
-description: Here's a quick demo showing the integration between Snipcart and Jekyll. We hope you like it!
+title: SovranistaLocale
+email: ecommerce@SovranistaLocale.com
+description: Il Sovranista Locale delle Cinque Terre!
 baseurl: "/snipcart-jekyll-integration" # the subpath of your site, e.g. /blog/
 url: "https://snipcart.github.io" # the base hostname & protocol for your site
-twitter_username: Snipcart
-github_username:  Snipcart
-api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
+logo: images/sovranistalocalenew.jpg
+twitter_username: sovranistaloca1
+github_username:  danielemoggia
+#api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
+api_key: YjU0N2I4MWMtZGVmOC00YzhmLWI2OWMtYjI3MWFjNDRhNGMzNjM3MDEzNjY3NjM1Nzc0MjYx
+
 
 # Build settings
 markdown: kramdown
